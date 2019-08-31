@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82401e03-b437-496c-9e13-a23d47b1998a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Review/com/kourou/collection/Iterator/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Review/com/kourou/collection/Iterator/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Review/com/kourou/collection/Iterator/dEMO2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Review/com/kourou/collection/Iterator/dEMO2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/List/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kourou/collection/List/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +26,53 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/List/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,8 +98,10 @@
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Set/HashSet/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Set/Hash_TreeSet/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo.java" />
-        <option value="$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java" />
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java" />
+        <option value="$PROJECT_DIR$/src/com/kourou/collection/List/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java" />
+        <option value="$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java" />
       </list>
     </option>
   </component>
@@ -58,18 +113,19 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="759" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="859" />
+    <option name="y" value="4" />
     <option name="width" value="1065" />
-    <option name="height" value="1044" />
+    <option name="height" value="1041" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,36 +166,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="kourou" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-              <item name="LInkedList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-              <item name="Vector" type="462c0819:PsiDirectoryNode" />
+              <item name="ListIterator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dEMO2">
+  <component name="RunManager" selected="Application.TestDemo (1)">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kourou.collection.Iterator.Demo" />
       <module name="Review" />
@@ -198,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LIstAdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kourou.collection.List.ArrayList.LIstAdd" />
+    <configuration name="TestDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kourou.collection.ListIterator.TestDemo" />
       <module name="Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kourou.collection.List.ArrayList.*" />
+          <option name="PATTERN" value="com.kourou.collection.ListIterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,6 +292,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestDemo (1)" />
         <item itemvalue="Application.dEMO2" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.TestDemo" />
@@ -286,16 +314,19 @@
       <workItem from="1566181796214" duration="8150000" />
       <workItem from="1566574735970" duration="2004000" />
       <workItem from="1566992394087" duration="112000" />
+      <workItem from="1567092151105" duration="660000" />
+      <workItem from="1567258760726" duration="917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10849000" />
+    <option name="totallyTimeSpent" value="12426000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="573" y="3" width="710" height="694" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16734034" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32668713" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,8 +335,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -322,7 +353,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="SciView" order="6" />
+      <window_info active="true" anchor="right" id="SciView" order="6" visible="true" weight="0.3297546" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -380,10 +411,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/List/Vector/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -397,30 +428,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/List/Vector/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/List/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/dEMO2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

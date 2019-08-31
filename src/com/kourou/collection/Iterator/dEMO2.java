@@ -1,7 +1,8 @@
 package com.kourou.collection.Iterator;
 
+import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.List;
-import java.util.Vector;
 
 /**
  * @Author： kourou
@@ -10,11 +11,21 @@ import java.util.Vector;
  */
 public class dEMO2 {
     public static void main(String[] args) {
-        List<String> list = new Vector<>();
+        List<String> list = new ArrayList<>();
         list.add("hello");
         list.add("hello");
+        list.add("B");
         list.add("bit");
-        System.out.println(list);
+        list.add("bit");
+        Iterator<String> iterable = list.iterator();
+        while (iterable.hasNext()){
+            String str = iterable.next();
+            if (str.equals("B")){
+                iterable.remove();
+                continue;
+            }
+            System.out.println(str);
+        }
     }
 
 }
