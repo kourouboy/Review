@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82401e03-b437-496c-9e13-a23d47b1998a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/Enumeration/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,14 +20,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="207">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Map/Demo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -65,6 +82,8 @@
         <option value="$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Enumeration/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo1.java" />
       </list>
     </option>
   </component>
@@ -76,7 +95,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="859" />
     <option name="y" value="4" />
     <option name="width" value="1065" />
@@ -129,43 +148,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="kourou" type="462c0819:PsiDirectoryNode" />
               <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Enumeration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Foreach" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="ListIterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Review" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Review" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="kourou" type="462c0819:PsiDirectoryNode" />
-              <item name="collection" type="462c0819:PsiDirectoryNode" />
-              <item name="Set" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -314,18 +297,18 @@
       <workItem from="1566574735970" duration="2004000" />
       <workItem from="1566992394087" duration="112000" />
       <workItem from="1567092151105" duration="660000" />
-      <workItem from="1567258760726" duration="1551000" />
+      <workItem from="1567258760726" duration="1778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13060000" />
+    <option name="totallyTimeSpent" value="13287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="3" width="710" height="694" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32668713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17219079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -334,7 +317,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3985765" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,11 +463,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="207">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Map/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>

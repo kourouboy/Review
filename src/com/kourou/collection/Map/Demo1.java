@@ -2,11 +2,11 @@ package com.kourou.collection.Map;
 
 /**
  * @Author： kourou
- * @Data： 2019/9/2 20:37
+ * @Data： 2019/9/4 21:31
  * @Description：
  */
-public class Demo {
+public class Demo1 {
     public static void main(String[] args) {
-
+        
     }
 }
