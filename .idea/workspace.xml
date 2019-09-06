@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82401e03-b437-496c-9e13-a23d47b1998a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kourou/collection/Map/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="420">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +95,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="859" />
-    <option name="y" value="4" />
+    <option name="x" value="858" />
+    <option name="y" value="3" />
     <option name="width" value="1065" />
     <option name="height" value="1041" />
   </component>
@@ -298,17 +297,18 @@
       <workItem from="1566992394087" duration="112000" />
       <workItem from="1567092151105" duration="660000" />
       <workItem from="1567258760726" duration="1778000" />
+      <workItem from="1567663204888" duration="597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13287000" />
+    <option name="totallyTimeSpent" value="13884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17219079" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.093775265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -403,20 +403,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo11.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Iterator/Demo3.java" />
     <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/ListIterator/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -463,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kourou/collection/Foreach/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="420">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
