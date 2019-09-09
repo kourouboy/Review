@@ -7,6 +7,6 @@ package com.kourou.collection.Set;
  */
 public class Demo {
     public static void main(String[] args) {
-        
+
     }
 }
